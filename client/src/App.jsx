@@ -7,7 +7,6 @@ import ChatPage from "./pages/ChatPage.jsx";
 import { useAuthStore } from "./store/useAuthStore";
 import { useEffect } from "react";
 import { ToastContainer } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
 import React from 'react';
 import { Toaster } from "react-hot-toast";
 
